@@ -48,4 +48,4 @@ Learning Beyond Labels: Self-Supervised Handwritten Text Recognition. WACV 2026.
 
 ## Acknowledgements
 
-Thanks to the CoMER implementation of CoMER by Green-Wood (https://github.com/Green-Wood/CoMER)
+Thanks to the implementation of CoMER by Green-Wood (https://github.com/Green-Wood/CoMER)
