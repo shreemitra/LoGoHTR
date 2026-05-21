@@ -19,7 +19,7 @@ This repository contains the training code, data modules, and model components f
 - Decoding and utilities: [comer/utils](comer/utils)
 
 ## Setup
-
+For setting up the environment please see the CoMER implementation by Green-Wood (https://github.com/Green-Wood/CoMER)
 1. Create a Python environment suitable for your system.
 2. Install dependencies listed in [requirements.txt](requirements.txt).
 3. If you want an editable install, use the metadata in [setup.py](setup.py) and [setup.cfg](setup.cfg).
